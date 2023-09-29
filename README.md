@@ -1,6 +1,6 @@
 # US-CENSUS-REPORT
 
-In this analysis, I explore key insights from the US Census data, focusing on population, employment distribution, poverty rates, unemployment rates and many more across states. The dashboard provides a comprehensive view of these crucial socio-economic factors, allowing us to gain a better understanding of the United States' demographic and economic landscape. 
+In this analysis, I explore key insights from the US Census data Using PowerBI, focusing on population, employment distribution, poverty rates, unemployment rates and many more across states. The dashboard provides a comprehensive view of these crucial socio-economic factors, allowing us to gain a better understanding of the United States' demographic and economic landscape. 
 
 The following are my Insights:
 
